@@ -1,0 +1,30 @@
+### SolidityTruffle ###
+# depedencies
+node_modules
+
+# testing
+coverage
+
+# builds
+build
+build_webpack
+.0x-artifacts
+
+# Node xmlHttpRequest
+.node-xmlhttprequest*
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+.truffle-solidity-loader
+.vagrant/**
+blockchain/geth/**
+blockchain/keystore/**
+blockchain/history
+
+#truffle
+.tern-port
+
+# Directory for temporary files
+tmp
